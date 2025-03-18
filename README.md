@@ -13,7 +13,7 @@ https://www.surveymonkey.de/r/N289B82
 ## Upgrades:
 * Train 3 model, and select the best model. (based on Accuracy and F1-score)
 * If you train the model, this program choose major features in 15 features. It makes AI model more efficient
-* Chrome extension based on MLRD. (expacted)
+* Chrome extension based on MLRD. (expected)
 
 ## Install:
 ```
